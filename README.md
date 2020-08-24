@@ -4,4 +4,5 @@
    在本教程中，您将学习游戏的另一个重要元素：触发器，它允许角色收集物体（以及其他东西）。
 3. [世界互动 破坏区和敌人](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2019.2&projectId=5c6166dbedbc2a0021b1bc7c#)
 4. [Sprite 动画](https://learn.unity.com/tutorial/sprite-animation?uv=2019.2&projectId=5c6166dbedbc2a0021b1bc7c)
-5. [射击子弹](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2019.2&projectId=5c6166dbedbc2a0021b1bc7c#)
+5. [射击子弹 物理系统](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2019.2&projectId=5c6166dbedbc2a0021b1bc7c#)
+6. [相机 电影机](https://learn.unity.com/tutorial/camera-cinemachine?uv=2019.2&projectId=5c6166dbedbc2a0021b1bc7c)
